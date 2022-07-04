@@ -1,0 +1,17 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+h1{
+    font-size: 50px;
+}
+h1 span{
+    color: tomato;
+}
+.anchor-button{
+    background-color: tomato;
+    text-decoration: none;
+    border-radius: 5px;
+    padding: 10px 40px;
+    font-weight: 700;
+    color: aliceblue;
+}

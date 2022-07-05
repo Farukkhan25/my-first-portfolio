@@ -1,5 +1,6 @@
 body{
     font-family: 'Poppins', sans-serif;
+    margin: auto;
 }
 section{
     height: 500px;
@@ -22,7 +23,11 @@ h1{
     font-size: 50px;
 }
 h1 span{
-    color: tomato;
+    color: orange;
+}
+p{
+    color: dimgray;
+    text-align: justify;
 }
 .anchor-button{
     background-color: tomato;
@@ -31,4 +36,9 @@ h1 span{
     padding: 10px 40px;
     font-weight: 700;
     color: aliceblue;
+}
+.dream-area{
+    background-image: url("image/dream-bg.png");
+    background-repeat: no-repeat;
+    background-position: right;
 }

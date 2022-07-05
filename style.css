@@ -13,6 +13,7 @@ body{
 .half-width{
     width: 40%;
     float: left;
+    margin-top: 2%;
     margin-left: 5%;
     padding-left: 2%;
 }
@@ -59,9 +60,17 @@ h2{
     background-repeat: no-repeat;
     background-position: left;
 }
+#experiences{
+margin-left: 5%;
+}
 #full-stack-developer{
     border-left: 7px orange solid;
+    background-color: rgb(209, 239, 251);
 }
 #baby-developer{
     border-left: 7px solid blue;
+    background-color: rgb(209, 239, 251);
+}
+footer p{
+    text-align: center;
 }
